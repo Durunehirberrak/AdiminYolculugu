@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/AdiminYolculugu/static/css/main.645c02c4.css",
-    "main.js": "/AdiminYolculugu/static/js/main.8686fbc9.js",
+    "main.js": "/AdiminYolculugu/static/js/main.c5e12320.js",
     "static/js/498.5033a868.chunk.js": "/AdiminYolculugu/static/js/498.5033a868.chunk.js",
     "static/js/703.b2c44a5d.chunk.js": "/AdiminYolculugu/static/js/703.b2c44a5d.chunk.js",
     "static/js/258.856ecd34.chunk.js": "/AdiminYolculugu/static/js/258.856ecd34.chunk.js",
@@ -218,7 +218,7 @@
     "static/media/A - ALACAKARANLIK KUŞLARI - 1. SAYFA.jpeg": "/AdiminYolculugu/static/media/A - ALACAKARANLIK KUŞLARI - 1. SAYFA.969d182b748797180b8d.jpeg",
     "index.html": "/AdiminYolculugu/index.html",
     "main.645c02c4.css.map": "/AdiminYolculugu/static/css/main.645c02c4.css.map",
-    "main.8686fbc9.js.map": "/AdiminYolculugu/static/js/main.8686fbc9.js.map",
+    "main.c5e12320.js.map": "/AdiminYolculugu/static/js/main.c5e12320.js.map",
     "498.5033a868.chunk.js.map": "/AdiminYolculugu/static/js/498.5033a868.chunk.js.map",
     "703.b2c44a5d.chunk.js.map": "/AdiminYolculugu/static/js/703.b2c44a5d.chunk.js.map",
     "258.856ecd34.chunk.js.map": "/AdiminYolculugu/static/js/258.856ecd34.chunk.js.map",
@@ -226,6 +226,6 @@
   },
   "entrypoints": [
     "static/css/main.645c02c4.css",
-    "static/js/main.8686fbc9.js"
+    "static/js/main.c5e12320.js"
   ]
 }
